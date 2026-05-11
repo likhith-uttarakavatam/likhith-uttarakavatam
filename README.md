@@ -23,4 +23,4 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=likhith-uttarakavatam&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
-📫 **Let's connect!** [LinkedIn](YOUR_LINK_HERE) | [Portfolio](YOUR_LINK_HERE)
+📫 **Let's connect!** [LinkedIn](https://www.linkedin.com/in/uttarakavatam-likhith-843627378/) | [Portfolio](https://github.com/likhith-uttarakavatam)
