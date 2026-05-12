@@ -48,7 +48,7 @@ I am a passionate **EEE Student** focused on the intersection of **Power Infrast
 
 <h3 align="center">📫 Let's Connect!</h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/uttarakavatam-likhith-843627378/" target="_blank">
+  <a href="https://www.linkedin.com/in/likhith-uttarakavatam-843627378/" target="_blank">
     <img src="https://img.shields.io/badge/LINKEDIN-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;&nbsp;
